@@ -1,0 +1,68 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+frontend/node_modules/
+.next/
+frontend/.next/
+
+# Generated data
+*.xlsx
+
+# Large media
+*.mp4
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+# Generated data
+data/*.json
+data/*.pkl
+*.xlsx
+
+# Videos
+*.mp4
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Next.js
+node_modules/
+.next/
+frontend/node_modules/
+frontend/.next/# Generated data
+data/*.json
+data/*.pkl
+*.xlsx
+
+# Videos
+*.mp4
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Next.js
+node_modules/
+.next/
+frontend/node_modules/
+frontend/.next/
