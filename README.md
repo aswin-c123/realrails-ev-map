@@ -90,6 +90,8 @@ Exports the dataset as a CSV file.
 Returns backend health status and total station count.
 
 ---
+<img width="1905" height="846" alt="Screenshot 2026-07-16 003235" src="https://github.com/user-attachments/assets/328984df-e339-4b8f-b3b2-868538489984" />
+<img width="1901" height="876" alt="Screenshot 2026-07-16 003308" src="https://github.com/user-attachments/assets/765de8ff-928e-446c-ab40-f61664ddc64c" />
 
 ## How to Run
 
@@ -107,8 +109,7 @@ cd frontend
 npm install 
 npm run dev
 Frontend run at  http://localhost:3000
-<img width="1905" height="846" alt="Screenshot 2026-07-16 003235" src="https://github.com/user-attachments/assets/328984df-e339-4b8f-b3b2-868538489984" />
-<img width="1901" height="876" alt="Screenshot 2026-07-16 003308" src="https://github.com/user-attachments/assets/765de8ff-928e-446c-ab40-f61664ddc64c" />
+
 
 ⁠
   
